@@ -4,10 +4,10 @@ This is a javascript clock that I made in my free time. I decided to push this t
 incase anyone needs the code in the future.
 
 used express and node in ubuntu to make this.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 if you do not use node, simply take the code from views/index.ejs(to be placed in the body)
 and assets/script.js and style it how you wish
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 layout explanation: 
     
     Format
