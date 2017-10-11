@@ -36,3 +36,8 @@ layout explanation:
         
     package.json:
         json config file
+        
+        
+Checkout my website: http://josehinojo.com to connect with me.
+There you'll find links to my social media. Maybe we can collab or I can help you
+with something. Who knows?
